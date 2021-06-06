@@ -1,0 +1,3 @@
+C:/Users/User/sort string/cmake-build-debug/CMakeFiles/sort_string.dir
+C:/Users/User/sort string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/sort string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
